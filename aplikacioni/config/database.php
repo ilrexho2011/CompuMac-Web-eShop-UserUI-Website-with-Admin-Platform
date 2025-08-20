@@ -76,8 +76,8 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	'username' => 'ilrexho', // ilrexho
-	'password' => 'nA)Aj9NQWix0[diC', // nA)Aj9NQWix0[diC
+	'username' => 'xxxxxxxxx', // 
+	'password' => 'yyyyyyyyyyyyyyyyyy', // 
 	'database' => 'myeshop',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
@@ -94,3 +94,4 @@ $db['default'] = array(
 	'failover' => array(),
 	'save_queries' => TRUE
 );
+
