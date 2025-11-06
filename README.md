@@ -1,6 +1,5 @@
-# Full-Web-eShop-UserUI-Website-with-Admin-Platform
+# Automate the creation of sales orders of „CompuMac“ – Bodensee Sales System, JS, using SAP Integration Suite, UI5 APIs, and S4/Hana DB)
 
-Automate the creation of sales orders of „CompuMac“ – Bodensee Sales System, JS, using SAP Integration Suite, UI5 APIs, and S4/Hana DB)
 - iFlow creation in SAP Cloud Integration 
 - Create a web API in SAP Fiori (UI5) to start the process,
 - Create & Publish an Event in ERP Sytem
